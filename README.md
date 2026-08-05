@@ -1,0 +1,1 @@
+download files and open install.sh (must be linux after and windows) open install.sh with boot for install linux and all file install.sh aoutomatic create the partition and bot disk and disk is must be 30* gb free space 
